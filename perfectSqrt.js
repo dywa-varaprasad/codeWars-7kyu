@@ -20,6 +20,7 @@ Examples:(Input --> Output)
 
 
 //My solution
+
 function findNextSquare(sq) {
 
   var root = Math.sqrt(sq);
