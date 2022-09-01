@@ -2,6 +2,12 @@
 
 const isPalindromeChecker(string) =>{
 let reverseString = string.split('').reverse().join('')
-return reverseString =string
+return reverseString = string
 }
 
+Function isPalinCheck(str){
+let reverseString = str.spilt('').reverse().join()
+If(reverseString ==str){
+return true}
+else return false
+}
